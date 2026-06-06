@@ -45,5 +45,5 @@ This repository contains business-focused analytics solutions developed using Po
 
 Data Analyst with experience in Power BI, Excel, SQL, and business reporting. Passionate about transforming data into actionable insights through interactive dashboards and analytical solutions.
 
-LinkedIn: [Your LinkedIn]
-Email: [Your Email]
+LinkedIn: http://www.linkedin.com/in/parth-gurav 
+Email: parth.shri.raj@gmail.com
